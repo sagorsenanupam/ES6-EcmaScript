@@ -20,7 +20,14 @@
 // document.getElementById("title").addEventListener("click", () => {});
 // document.getElementById("title").addEventListener("click", function () {});
 
-const test = () => console.log("Hello");
+// const test = () => console.log("Hello");
 
-const square = (x) => x * x;
-console.log(square(10));
+// const square = (x) => x * x;
+// console.log(square(10));
+
+document.getElementById("title").addEventListener("click", () => {
+  console.log("clicked");
+});
+document.getElementById("title").addEventListener("click", function () {
+  console.log("clicked");
+});
