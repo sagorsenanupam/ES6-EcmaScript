@@ -17,5 +17,10 @@
 // normal function e same call korle je koyta arguments ota object akare pass korbe.
 
 // Anonymous function
-document.getElementById("title").addEventListener("click", () => {});
-document.getElementById("title").addEventListener("click", function () {});
+// document.getElementById("title").addEventListener("click", () => {});
+// document.getElementById("title").addEventListener("click", function () {});
+
+const test = () => console.log("Hello");
+
+const square = (x) => x * x;
+console.log(square(10));
