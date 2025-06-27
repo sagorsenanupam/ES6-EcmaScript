@@ -25,9 +25,9 @@
 // const square = (x) => x * x;
 // console.log(square(10));
 
-document.getElementById("title").addEventListener("click", () => {
-  console.log("clicked");
-});
-document.getElementById("title").addEventListener("click", function () {
-  console.log("clicked");
-});
+// document.getElementById("title").addEventListener("click", () => {
+//   console.log("clicked");
+// });
+// document.getElementById("title").addEventListener("click", function () {
+//   console.log("clicked");
+// });
