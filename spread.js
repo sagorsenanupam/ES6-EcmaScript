@@ -1,4 +1,4 @@
-const friends = ["deb", "jeet", "sakib"];
+// const friends = ["deb", "jeet", "sakib"];
 
 // console.log("hero alam", ...friends);
 
@@ -11,4 +11,4 @@ const numbers = [1, 5, 6, 2, 4, 34, 23, 54, 20, 12];
 // Math.max(...arrayName)
 // It consoles the maximum value of the array
 
-console.log(Math.max(...numbers));
+// console.log(Math.max(...numbers));

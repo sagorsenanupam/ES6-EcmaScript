@@ -1,6 +1,6 @@
 const countryName = "Bangladesh";
 
-let age = 10;
+// let age = 10;
 // we cannot change any value when we use const
 // we ca change the variable value when we use let
 
